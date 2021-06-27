@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_labellat" type="id"/>
+    <item name="tv_labellon" type="id"/>
+    <item name="tv_lat" type="id"/>
+    <item name="tv_labelaltitude" type="id"/>
+    <item name="tv_labelaccuracy" type="id"/>
+    <item name="tv_labelspeed" type="id"/>
+    <item name="sw_gps" type="id"/>
+    <item name="tv_labelsensor" type="id"/>
+    <item name="sw_locationsupdates" type="id"/>
+    <item name="tv_labelupdates" type="id"/>
+    <item name="divider" type="id"/>
+    <item name="tv_lbladdress" type="id"/>
+    <item name="tv_address" type="id"/>
+    <item name="tv_lon" type="id"/>
+</resources>
